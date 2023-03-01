@@ -1,0 +1,12 @@
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.deps.json
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.dll
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.pdb
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.csproj.AssemblyReference.cache
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.dll
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\refint\AreaCalculator.dll
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.pdb
+C:\Users\iakom\source\repos\AreaCalculator\AreaCalculator\obj\Debug\net6.0\ref\AreaCalculator.dll
